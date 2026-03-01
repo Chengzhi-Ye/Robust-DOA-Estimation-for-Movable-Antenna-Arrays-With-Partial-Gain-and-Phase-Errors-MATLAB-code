@@ -1,0 +1,2 @@
+# Robust-DOA-Estimation-for-Movable-Antenna-Arrays-With-Partial-Gain-and-Phase-Errors-MATLAB-code
+This repository contains the official demo code for the paper "Robust DOA Estimation for Movable Antenna Arrays With Partial Gain and Phase Errors," authored by Chengzhi Ye. This repository contains the official demo code for the paper "Robust DOA Estimation for Movable Antenna Arrays With Partial Gain and Phase Errors," authored by Chengzhi Ye. 
