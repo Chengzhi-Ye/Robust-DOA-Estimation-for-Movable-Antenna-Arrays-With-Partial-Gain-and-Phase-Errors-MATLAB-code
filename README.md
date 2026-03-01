@@ -4,6 +4,9 @@
 
 This repository contains the official demo code for the paper **"Robust DOA Estimation for Movable Antenna Arrays With Partial Gain and Phase Errors,"** authored by Chengzhi Ye.
 
+## 📖 Abstract
+In this letter, we investigate the direction-of-arrival (DOA) estimation problem for wireless sensing systems with movable antenna (MA) arrays. To achieve high DOA estimation accuracy in the presence of partial gain and phase errors (GPE) induced by calibration imperfections, we propose a two-stage multiple signal classification (MUSIC)-based self-calibrated DOA estimation method, which jointly estimates and compensates for the GPE. In the first stage, we utilize the optimized MA array configurations to build rotation-invariant signal subspaces, converting the GPE estimation into a constrained least-squares problem. This problem is then solved via the Lagrange multiplier technique, yielding a closed-form expression for GPE estimation. In the second stage, we derive the denoised covariance matrix, followed by GPE compensation utilizing the estimated GPE, and subsequently perform the DOA estimation via the MUSIC method. Simulation results demonstrate the superior DOA estimation performance of the proposed self-calibrated method for MA arrays as compared to the existing approaches.
+
 ## 🔗 Paper Link
 The full manuscript can be accessed on IEEE Xplore at:  
 [https://ieeexplore.ieee.org/document/11235488/](https://ieeexplore.ieee.org/document/11235488/)
